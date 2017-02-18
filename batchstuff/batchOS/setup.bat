@@ -2,7 +2,7 @@
 :start
 cls
 title setup running...
-start C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\setupprgs\makedirs.bat
+start C:\Users\##########\Contacts\Desktop\stuff\batchstuff\batchOS\setupprgs\makedirs.bat
 echo welcome to batchOS!
 echo what setting do you want to be on?
 echo 1)clean install
@@ -55,7 +55,7 @@ echo [              ]                        ]
 echo [              ]                        ]
 echo [done          ]                        ]
 echo -----------------------------------------
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32
+md C:\Users\######\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32
 Ping localhost -n 5 >nul
 cls
 echo ok then, watch the new things down here:
@@ -72,7 +72,7 @@ echo [              ]                        ]
 echo [              ]                        ]
 echo [done          ]                        ]
 echo -----------------------------------------
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\sys\PRGS
+md C:\Users\########\Contacts\Desktop\stuff\batchstuff\batchOS\sys\PRGS
 Ping localhost -n 4 >nul
 cls
 echo ok then, watch the new things down here:
@@ -89,10 +89,10 @@ echo [              ]                        ]
 echo [##########    ]                        ]
 echo [done          ]                        ]
 echo -----------------------------------------
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore
+md C:\Users\########\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore
 pause >nul
 echo done
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\maindrv
+md C:\Users\#######\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\maindrv
 Ping localhost -n 5 >nul
 goto done
 
@@ -100,5 +100,5 @@ goto done
 cls
 echo press any key to start your new OS!
 pause >nul
-start C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\setupprgs\startup.bat
+start C:\Users\########\Contacts\Desktop\stuff\batchstuff\batchOS\setupprgs\startup.bat
 exit

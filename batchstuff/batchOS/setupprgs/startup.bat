@@ -21,12 +21,12 @@ echo coloring...
 Ping localhost -n 5 >nul
 color 1b
 echo setting up temporary files...
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore\start
+md C:\Users\#######\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore\start
 Ping localhost -n 5 >nul
 echo welcome
 pause >nul
-copy C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\systemfilestemp\basecore.bat C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore\mainCore.bat
-start C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore\mainCore.bat
+copy C:\Users\#########\Contacts\Desktop\stuff\batchstuff\batchOS\systemfilestemp\basecore.bat C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore\mainCore.bat
+start C:\Users\##########\Contacts\Desktop\stuff\batchstuff\batchOS\OS\mainCore\mainCore.bat
 exit
 
 :custom

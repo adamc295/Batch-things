@@ -25,7 +25,7 @@ echo.
 echo.
 echo.
 echo.
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps
+md C:\Users\##########\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps
 Ping localhost -n 2 >nul
 cls
 echo.
@@ -49,7 +49,7 @@ echo.
 echo.
 echo.
 echo.
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps\APIcreate
+md C:\Users\#######\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps\APIcreate
 Ping localhost -n 2 >nul
 cls
 echo.
@@ -73,7 +73,7 @@ echo.
 echo.
 echo.
 echo.
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps\APIcreate\base
+md C:\Users\########\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps\APIcreate\base
 Ping localhost -n 2 >nul
 cls
 echo.
@@ -97,7 +97,7 @@ echo.
 echo.
 echo.
 echo.
-md C:\Users\Andy.WESTYEM\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps\store
+md C:\Users\#######\Contacts\Desktop\stuff\batchstuff\batchOS\OS\sys32\apps\store
 Ping localhost -n 2 >nul
 goto main
 
